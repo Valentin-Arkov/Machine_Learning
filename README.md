@@ -9,3 +9,7 @@
 ## Датасеты
 
 [Рост-вес](https://github.com/Valentin-Arkov/Machine_Learning/blob/main/files/arkov-2026-dataset.csv)
+
+## Ссылки
+
+[Цифровой марафон от Сбера, «Школы 21» и Нетологии](https://it-marathon.21-school.ru/)
