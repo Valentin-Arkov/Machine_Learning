@@ -1,6 +1,6 @@
 # Искусственный интеллект и машинное обучение
 
-## Лекции
+## Лекции и практика
 
 [01 Введение](https://github.com/Valentin-Arkov/Machine_Learning/blob/main/files/ML-01-Intro.pdf)
 
