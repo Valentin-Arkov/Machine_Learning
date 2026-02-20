@@ -14,7 +14,7 @@
 
 ## Лабораторные работы
 
-[Блокнот](https://docs.google.com/spreadsheets/d/1b5oLr13tmMd6n-eVX5CDx-vpEpPrBSCVpwM451rNfLE/edit?usp=sharing)
+[Блокнот](https://forms.yandex.ru/u/699806c8e010dba92fac3690/)
 
 
 
