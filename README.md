@@ -12,7 +12,7 @@
 
 [Недвижимость](https://docs.google.com/spreadsheets/d/1b5oLr13tmMd6n-eVX5CDx-vpEpPrBSCVpwM451rNfLE/edit?usp=sharing)
 
-## Лабораторные работы
+## Практические занятия и лабораторные работы
 
 [Блокнот](https://forms.yandex.ru/u/699806c8e010dba92fac3690/)
 
