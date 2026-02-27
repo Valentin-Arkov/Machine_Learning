@@ -14,9 +14,7 @@
 
 ## Практические занятия и лабораторные работы
 
-ЛР1 Недвижимость
-
-
+[ЛР1 Недвижимость](https://github.com/Valentin-Arkov/Machine_Learning/blob/main/files/ML-LR1-Realty.pdf)
 
 [Отчеты](https://forms.yandex.ru/u/699806c8e010dba92fac3690/)
 
