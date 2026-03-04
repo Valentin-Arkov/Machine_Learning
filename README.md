@@ -10,7 +10,7 @@
 
 [Рост-вес](https://github.com/Valentin-Arkov/Machine_Learning/blob/main/files/arkov-2026-dataset.csv)
 
-[2026-03-03 ПИ-430 ЛР1 Подгруппа2](https://docs.google.com/spreadsheets/d/18djmJ7xY7C9qIsk4tf1qcRpsxOAUiuvsDyNz2sD54oM/edit?usp=sharing)
+[2026-03-05 ПИ432 ЛР1 Подгруппа 2](https://docs.google.com/spreadsheets/d/1PhxWIKT0kfMXJFgjFzQKPcQfpoF26CJhFgkR8BhIPjo/edit?usp=sharing)
 
 ## Практические занятия и лабораторные работы
 
