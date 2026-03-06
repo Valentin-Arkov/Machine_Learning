@@ -37,3 +37,22 @@
 ## Ссылки
 
 [Цифровой марафон от Сбера, «Школы 21» и Нетологии](https://it-marathon.21-school.ru/)
+
+##  Блог Яндекс Практикума
+
+
+[Вайб-кодинг - Vibe Coding](https://practicum.yandex.ru/blog/chto-takoe-vibe-coding/)
+
+[Обработка естественного языка - Natural Language Processing (NLP)](https://practicum.yandex.ru/blog/pro-ponimanie-nlp-v-tsifrovuyu-epohu/)
+
+[Профессия AI-тренер](https://practicum.yandex.ru/blog/kto-takoy-ai-trener/)
+
+[Векторы в анализе данных](https://practicum.yandex.ru/blog/dlina-vektora-v-analize-dannyh/)
+
+[Логистическая регрессия](https://practicum.yandex.ru/blog/logisticheskaya-regressiya-v-mashinnom-obucheni/)
+
+[Собеседование на аналитика данных](https://practicum.yandex.ru/blog/sobesedovaniya-analitika-dannyh/)
+
+[Собеседование на бизнес‑аналитика](https://practicum.yandex.ru/blog/sobesedovaniya-biznes-analitika/)
+
+[Собеседование на Data Scientist](https://practicum.yandex.ru/blog/sobesedovaniya-data-scientist/)
