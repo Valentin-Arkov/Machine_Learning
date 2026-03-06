@@ -28,7 +28,7 @@
 
 [ЛР1 Недвижимость](https://github.com/Valentin-Arkov/Machine_Learning/blob/main/files/ML-LR1-Realty.pdf)
 
-[ЛР2 Регрессия]()
+[ЛР2 Регрессия](https://github.com/Valentin-Arkov/Machine_Learning/blob/main/files/ML-LR2-Regression.pdf)
 
 [Отчеты](https://forms.yandex.ru/u/699806c8e010dba92fac3690/)
 
