@@ -1,5 +1,7 @@
 # Искусственный интеллект и машинное обучение
 
+[Копия репозитория на GitVerse](https://gitverse.ru/Valentin-Arkov/Machine_Learning)
+
 ## Лекции и практика
 
 [01 Введение](https://github.com/Valentin-Arkov/Machine_Learning/blob/main/files/ML-01-Intro.pdf)
