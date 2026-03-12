@@ -56,3 +56,9 @@
 [Собеседование на бизнес‑аналитика](https://practicum.yandex.ru/blog/sobesedovaniya-biznes-analitika/)
 
 [Собеседование на Data Scientist](https://practicum.yandex.ru/blog/sobesedovaniya-data-scientist/)
+
+## Книги
+
+Серрано 2024 Грокаем ашинное обучение
+
+
