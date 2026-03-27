@@ -32,6 +32,8 @@
 
 [ЛР2 Регрессия](https://github.com/Valentin-Arkov/Machine_Learning/blob/main/files/ML-LR2-Regression.pdf)
 
+[ЛР3 Признаки](https://github.com/Valentin-Arkov/Machine_Learning/blob/main/files/ML_LR3_Features.pdf)
+
 [Отчеты](https://forms.yandex.ru/u/699806c8e010dba92fac3690/)
 
 
