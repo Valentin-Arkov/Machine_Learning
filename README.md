@@ -34,10 +34,6 @@
 
 [ЛР3 Признаки](https://github.com/Valentin-Arkov/Machine_Learning/blob/main/files/ML_LR3_Features.pdf)
 
-[Отчеты](https://forms.yandex.ru/u/699806c8e010dba92fac3690/)
-
-
-
 ## Ссылки
 
 [Цифровой марафон от Сбера, «Школы 21» и Нетологии](https://it-marathon.21-school.ru/)
@@ -98,3 +94,6 @@
 [Флах 2015 Машинное обучение](https://e.lanbook.com/book/69955)
 
 [Рашка 2017 Python и машинное обучение](https://e.lanbook.com/book/100905)
+
+# Зачет
+[Темы занятий для самостоятельного изучения](https://github.com/Valentin-Arkov/Machine_Learning/blob/main/files/Arkov-ML.pdf)
